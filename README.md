@@ -30,4 +30,4 @@ OpenEA (https://github.com/OpenKG-ORG/OpenEA) 是一个面向基于嵌入的知�
 
 ## 结束语
 
-如果您在使用 OpenEA 及其 Tutorial 过程中遇到任何问题，欢迎在项目 Issues 中提出！感谢孙泽群、张清恒、王成名等人研发 OpenEA，孙泽群、成威和朱向荣对 Tutorial 的实现，以及李光耀对相关工作的总结。
+如果您在使用 OpenEA 及其 Tutorial 过程中遇到任何问题，欢迎在项目 Issues 中提出！主要贡献者包括：胡伟、孙泽群、张清恒、王成名、成威、朱向荣、李光耀等。
